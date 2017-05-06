@@ -1,0 +1,9 @@
+# Folders #
+###########
+node_modules
+style
+
+# Files #
+#########
+gulpfile.js
+package.json
